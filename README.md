@@ -1,3 +1,3 @@
-# This is a Dynamic Duo Studio Clone Website using GSAP
+# This is a Duo Studio Dynamic Website Clone using GSAP.
 <br>
 Author - Harsh Sharma
